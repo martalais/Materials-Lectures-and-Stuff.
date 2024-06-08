@@ -1,2 +1,29 @@
-# Materials-Lectures-and-Stuff.
-During my years in the computing field, I had the opportunity to give lectures about OpenStack, infrastructure and cloud in general. I decided to keep everything here. Most are in Portuguese, feel free to translate and use.
+# Materials, Lectures and Stuff.
+
+I love writing and documenting everything I can. In my daily work, the materials I produce are internal, so I cannot share them. But, during my years in the computing field, I had the opportunity to give lectures about OpenStack, infrastructure and cloud in general. So, I decided to keep everything here. From lectures, to roadmaps and articles.
+
+> *Most are in Brazilian Portuguese, feel free to translate and use them.*
+
+**[MAGAZINE ARTICLE/REPORT]** [Amor à Conservação](https://issuu.com/viracao/docs/edicao_102): The first thing I remember writing in a more "professional" way was an article about **taxidermy** *(yes, bear with me here)*. I was a volunteer writter member representing my state at Viração magazine, which is a non-profit social organization that works with educommunication and social mobilization projects. I edited and collaborated on other articles, but the story I decided to report in this edition was unusual: **a motorcycle courier from my city whose hobby was doing taxidermy for free**. Yep. I learned a lot during the period I volunteered at Viração and I felt that this article should be here too.
+
+**[SCIENTIFIC ARTICLE]** [Antenna for fifth generation (5G) Using a EBG Structure](https://www.researchgate.net/publication/282795759_Antenna_for_fifth_generation_5G_Using_a_EBG_Structure): When I was 15 years old, during my IT Maintenance and Support Technician, we began researching and developing an antenna prototype that would enable data transmission via 5G. In 2015 the article was accepted and published at WorldCIST'15 (World Conference on Information Systems and Technologies) and some books. 
+
+**[WEB ARTICLE/TUTORIAL]** [John The Ripper: Teste de Quebra de Senhas](https://www.vivaolinux.com.br/artigo/John-The-Ripper-Teste-de-Quebra-de-Senhas/): While I was developing tests for my thesis at IFPB, I decided to create this quick tutorial and article about the tool I was using, John The Ripper. I chose the *Viva o Linux* website as a platform because I used it a lot and was part of the community at the time.
+ 
+ **[LECTURE MATERIAL]** [Introdução à Cloud Computing](https://drive.google.com/file/d/1SKl1TmQ2Il2yE3O15UVCZu31dKfDqrHu/view?usp=drive_link) : I presented this lecture several times, with the target audience being first-year Computer Science undergraduate students. It is very simple and aims to present the area and generate interest in it. I use OpenStack to explain the infrastructure and so on.
+
+**[MEDIUM ARTICLE]** [Java - Geralzão](https://medium.com/@martalaismd/java-geralz%C3%A3o-2f5951e723c6): Having struggled with the Object-Oriented Programming course *(and with Java, of course)* during my undergraduate studies, I wrote this article to document my study of Java and object-oriented concepts.
+
+**[WEB ARTICLE]** [Cloud e OpenStack: Uma breve introdução](https://dev.to/opendevufcg/cloud-e-openstack-uma-breve-introducao-49cb) : Article I wrote for OpenDevUFCG, introducing the cloud, OpenStack and some of its main components.
+
+**[LECTURE MATERIAL]** [Cloud for Noobs](https://drive.google.com/file/d/1KG3ZpTwDIq4NVeNyoGBOcMNxM7pLAFU-/view): I used this material in the lecture I was invited to give at an event at UNIPÊ, a college. Introduction to Cloud and OpenStack.
+
+**[MEDIUM ARTICLE]** [OpenStack for Dummies](https://medium.com/@martalaismd/openstack-for-dummies-6cd3ab1892e3): This article goes a little deeper *(it's still very basic, tho)* into OpenStack and its components. I also give examples of commands via CLI, talk about OpenStack All-In-One and Ansible playbooks.
+
+**[LECTURE/COURSE MATERIAL]** [OpenStack: Só o Básico](https://drive.google.com/file/d/1Sop3YgTJXPH53rudGeagMm8m1XdK_EU-/view) : During university, I worked for 2 years as an OpenStack Cloud Engineer at the Distributed Systems Laboratory (UFCG). After leaving, I was called to give a "class/lecture" about OpenStack to the new members of my old team. So, this material is a little more focused on concepts, components and architecture. I also talk about Ansible and Ceph. I used the same material for the onboarding of the company I was working for at the time (Magalu Cloud).
+
+**[LECTURE MATERIAL]** [Áreas da Infraestrutura](https://drive.google.com/file/d/1qQ7iF4qKV749-xncP5sYG6uW12MDetQj/view): Shortly before graduating, I decided to create this lecture for OpenDevUFCG's Hacktoberfest event. Motivated mainly by students' lack of interest and knowledge about the infrastructure area, as well as the lack of subjects in this area at undergraduate level, I decided to "sell" the area. I show different areas, which cover the most popular topics such as data, development, etc. As a result, subjects in the infrastructure area that were no longer available due to lack of demand returned due to student requests. I was very happy. Oh, there's also a video recording from it on [YouTube](https://www.youtube.com/watch?v=qOB_tyzetX8&t=958s&pp=ygUcYXJlYXMgZGEgaW5mcmFlc3RydXR1cmEgdWZjZw==).
+
+**[ROADMAP]** [Cloud Roadmap](https://github.com/Guardians-DSC/Cloud-Roadmap): After the lectures, some students always asked me how they could start studying the cloud area. So, together with the UFCG Guardians group, I, a friend who is from the same area and our Computer Networks professor, came together to create this roadmap and gather study materials for interested students. (There was even a podcast episode about it, but the recording was lost :( ).
+
+**[UNDERGRADUATE THESIS/SCIENTIFIC ARTICLE]** [Performance analysis in a hyperconverged OpenStack environment](http://dspace.sti.ufcg.edu.br:8080/xmlui/handle/riufcg/29353):  That was my undergraduate thesis for my Computer Science degree. I show how I performed several storage performance tests in an OpenStack+Ceph environment with hyperconverged architecture.
